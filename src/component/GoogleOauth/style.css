@@ -1,0 +1,25 @@
+.div-profile {
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 400px;
+    border-radius: 8px;
+}
+
+.div-profile img {
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+}
+
+.btnLoginGG {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.mainLogin {
+    height: 600px;
+    background-image: url('https://res.cloudinary.com/phancauphuoc/image/upload/v1658376779/web_2107/images/blog-single-page-bg_fqcmmq.jpg');
+    background-size: cover;
+}
